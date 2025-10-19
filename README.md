@@ -12,11 +12,12 @@ This project showcases beginner-friendly web design skills — including respons
 ---
 
 ## 🏗️ Project Structure
-taj-mahal-site/
-┣ index.html → Main overview page
-┣ architecture.html → Details about the architecture
-┣ history.html → Historical background
-
+| File Name | Description |
+|------------|-------------|
+| [index.html](index.html) | Main Overview Page |
+| [history.html](history.html) | Historical Background |
+| [architecture.html](architecture.html) | Architectural Details |
+| [README.md](README.md) | Project Overview and Instructions |
 ---
 
 ## 💡 Features
